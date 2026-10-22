@@ -17,12 +17,12 @@ Werkzeug>=3.1.0
 itsdangerous==2.2.0
 Jinja2==3.1.4
 
-# Deep learning (for M1–M4)
+
+# Deep learning
 tensorflow==2.16.2
 tf-keras==2.16.0
 fer==22.5.1
 setuptools<81
-gunicorn
 torch==2.2.0
 torchvision==0.17.0
 torchaudio==2.2.0
@@ -31,15 +31,12 @@ facenet-pytorch==2.6.0
 retina-face==0.0.17
 mtcnn==1.0.0
 
-# Computer Vision
-opencv-python==4.9.0.80
+# Computer vision
 opencv-contrib-python==4.9.0.80
 mediapipe==0.10.21
 ultralytics==8.3.221
 ultralytics-thop==2.0.17
-moviepy==1.0.3
-imageio==2.37.0
-imageio-ffmpeg==0.6.0
+
 
 # Audio / signal
 librosa==0.10.2.post1
