@@ -18,8 +18,11 @@ itsdangerous==2.2.0
 Jinja2==3.1.4
 
 # Deep learning (for M1–M4)
-tensorflow==2.16.2 
-keras==3.4.1
+tensorflow==2.16.2
+tf-keras==2.16.0
+fer==22.5.1
+setuptools<81
+gunicorn
 torch==2.2.0
 torchvision==0.17.0
 torchaudio==2.2.0
