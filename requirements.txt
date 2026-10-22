@@ -19,7 +19,6 @@ Jinja2==3.1.4
 
 # Deep learning (for M1–M4)
 tensorflow==2.16.2 
-tensorflow-metal==1.2.0
 keras==3.4.1
 torch==2.2.0
 torchvision==0.17.0
